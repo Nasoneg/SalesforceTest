@@ -1,0 +1,28 @@
+{
+    "projectName": "Project Test",
+    "username": "guillaume.nasone@capgemini.com",
+    "id": "f5889ba0-0fd9-11e7-b0d6-f125cd38c8e4",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://eu11.salesforce.com",
+    "workspace": "C:\\Users\\gnasone\\MavensWorkspace\\project-test",
+    "subscription": [
+        "ActionLinkGroupTemplate",
+        "AnalyticSnapshot",
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "AppMenu",
+        "ApprovalProcess",
+        "AssignmentRules",
+        "AuraDefinitionBundle",
+        "AutoResponseRules",
+        "CallCenter",
+        "Certificate",
+        "Community",
+        "Profile",
+        "StaticResource"
+    ]
+}

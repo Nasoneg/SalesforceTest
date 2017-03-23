@@ -1,0 +1,11 @@
+[
+    {
+        "id": "94394d80-0fda-11e7-b0d6-f125cd38c8e4",
+        "instanceUrl": "https://eu11.salesforce.com"
+    },
+    {
+        "name": "TestConnection",
+        "id": "5fce75b0-0fdb-11e7-b0d6-f125cd38c8e4",
+        "instanceUrl": "https://eu11.salesforce.com"
+    }
+]
